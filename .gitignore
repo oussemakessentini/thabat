@@ -10,6 +10,9 @@ backend/target/
 *.war
 *.log
 
+backend/.env
+backend/src/main/resources/application-local.yml
+
 # Maven
 .mvn/timing.properties
 
