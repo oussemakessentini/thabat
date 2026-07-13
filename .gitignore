@@ -4,14 +4,9 @@
 !.env.example
 
 # Java / Spring Boot
-backend/target/
-*.class
-*.jar
-*.war
-*.log
-
-backend/.env
-backend/src/main/resources/application-local.yml
+services/*/target/
+services/*/.env
+services/*/src/main/resources/application-local.yml
 
 # Maven
 .mvn/timing.properties
