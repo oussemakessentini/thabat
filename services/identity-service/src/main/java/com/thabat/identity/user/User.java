@@ -14,6 +14,7 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
+import java.time.LocalDate;
 import java.util.HashSet;
 import java.util.Set;
 
@@ -51,6 +52,9 @@ public class User extends BaseEntity {
 
     @Column(length = 100)
     private String timezone;
+
+    @Column(name = "date_of_birth", nullable = false)
+    private LocalDate dateOfBirth;
 
     @Builder.Default
     @Column(name = "preferred_language", nullable = false, length = 10)

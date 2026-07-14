@@ -1,9 +1,9 @@
 package com.thabat.identity.auth.dto;
 
-import jakarta.validation.constraints.Email;
-import jakarta.validation.constraints.NotBlank;
-import jakarta.validation.constraints.Pattern;
-import jakarta.validation.constraints.Size;
+import com.thabat.identity.auth.validation.ValidDateOfBirth;
+import jakarta.validation.constraints.*;
+
+import java.time.LocalDate;
 
 public record RegisterRequest(
 
@@ -28,6 +28,11 @@ public record RegisterRequest(
         )
         String password,
 
+        @NotNull(message = "Date of birth is required")
+        @Past(message = "Date of birth must be in the past")
+        @ValidDateOfBirth
+        LocalDate dateOfBirth,
+
         @Pattern(
                 regexp = "^[A-Za-z]{2}$",
                 message = "Country code must contain exactly two letters"
@@ -42,5 +47,7 @@ public record RegisterRequest(
                 message = "Preferred language must contain between 2 and 10 letters"
         )
         String preferredLanguage
+
+
 ) {
 }

@@ -10,7 +10,7 @@ spring:
   cloud:
     gateway:
       server:
-        webflux:
+        webmvc:
           discovery:
             locator:
               enabled: true
@@ -26,6 +26,26 @@ spring:
               uri: lb://identity-service
               predicates:
                 - Path=/api/v1/users/**
+
+            - id: journey-service
+              uri: lb://journey-service
+              predicates:
+                - Path=/api/v1/journey/**
+
+            - id: prayer-service
+              uri: lb://prayer-service
+              predicates:
+                - Path=/api/v1/prayers/**
+
+            - id: quran-service
+              uri: lb://quran-service
+              predicates:
+                - Path=/api/v1/quran/**
+
+            - id: notification-service
+              uri: lb://notification-service
+              predicates:
+                - Path=/api/v1/notifications/**
 
 eureka:
   client:

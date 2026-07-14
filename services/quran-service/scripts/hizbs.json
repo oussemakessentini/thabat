@@ -1,0 +1,1033 @@
+{
+  "hizbs": [
+    {
+      "number": 1,
+      "firstPage": 1,
+      "firstAyah": {
+        "number": 1,
+        "text": "﻿بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+        "numberInSurah": 1
+      },
+      "firstSurah": {
+        "number": 1,
+        "name": "سورة الفاتحة",
+        "englishName": "Al-Faatiha",
+        "englishNameTranslation": "The Opening",
+        "revelationType": "Meccan",
+        "numberOfAyahs": 7
+      }
+    },
+    {
+      "number": 2,
+      "firstPage": 11,
+      "firstAyah": {
+        "number": 82,
+        "text": "۞أَفَتَطْمَعُونَ أَنْ يُؤْمِنُوا لَكُمْ وَقَدْ كَانَ فَرِيقٌ مِنْهُمْ يَسْمَعُونَ كَلَامَ اللَّهِ ثُمَّ يُحَرِّفُونَهُ مِنْ بَعْدِ مَا عَقَلُوهُ وَهُمْ يَعْلَمُونَ",
+        "numberInSurah": 75
+      },
+      "firstSurah": {
+        "number": 2,
+        "name": "سورة البقرة",
+        "englishName": "Al-Baqara",
+        "englishNameTranslation": "The Cow",
+        "revelationType": "Medinan",
+        "numberOfAyahs": 286
+      }
+    },
+    {
+      "number": 3,
+      "firstPage": 22,
+      "firstAyah": {
+        "number": 149,
+        "text": "۞سَيَقُولُ السُّفَهَاءُ مِنَ النَّاسِ مَا وَلَّاهُمْ عَنْ قِبْلَتِهِمُ الَّتِي كَانُوا عَلَيْهَا ۚ قُلْ لِلَّهِ الْمَشْرِقُ وَالْمَغْرِبُ ۚ يَهْدِي مَنْ يَشَاءُ إِلَىٰ صِرَاطٍ مُسْتَقِيمٍ",
+        "numberInSurah": 142
+      },
+      "firstSurah": {
+        "number": 2,
+        "name": "سورة البقرة",
+        "englishName": "Al-Baqara",
+        "englishNameTranslation": "The Cow",
+        "revelationType": "Medinan",
+        "numberOfAyahs": 286
+      }
+    },
+    {
+      "number": 4,
+      "firstPage": 32,
+      "firstAyah": {
+        "number": 210,
+        "text": "۞وَاذْكُرُوا اللَّهَ فِي أَيَّامٍ مَعْدُودَاتٍ ۚ فَمَنْ تَعَجَّلَ فِي يَوْمَيْنِ فَلَا إِثْمَ عَلَيْهِ وَمَنْ تَأَخَّرَ فَلَا إِثْمَ عَلَيْهِ ۚ لِمَنِ اتَّقَىٰ ۗ وَاتَّقُوا اللَّهَ وَاعْلَمُوا أَنَّكُمْ إِلَيْهِ تُحْشَرُونَ",
+        "numberInSurah": 203
+      },
+      "firstSurah": {
+        "number": 2,
+        "name": "سورة البقرة",
+        "englishName": "Al-Baqara",
+        "englishNameTranslation": "The Cow",
+        "revelationType": "Medinan",
+        "numberOfAyahs": 286
+      }
+    },
+    {
+      "number": 5,
+      "firstPage": 42,
+      "firstAyah": {
+        "number": 260,
+        "text": "۞تِلْكَ الرُّسُلُ فَضَّلْنَا بَعْضَهُمْ عَلَىٰ بَعْضٍ ۘ مِنْهُمْ مَنْ كَلَّمَ اللَّهُ ۖ وَرَفَعَ بَعْضَهُمْ دَرَجَاتٍ ۚ وَآتَيْنَا عِيسَى ابْنَ مَرْيَمَ الْبَيِّنَاتِ وَأَيَّدْنَاهُ بِرُوحِ الْقُدُسِ ۗ وَلَوْ شَاءَ اللَّهُ مَا اقْتَتَلَ الَّذِينَ مِنْ بَعْدِهِمْ مِنْ بَعْدِ مَا جَاءَتْهُمُ الْبَيِّنَاتُ وَلَٰكِنِ اخْتَلَفُوا فَمِنْهُمْ مَنْ آمَنَ وَمِنْهُمْ مَنْ كَفَرَ ۚ وَلَوْ شَاءَ اللَّهُ مَا اقْتَتَلُوا وَلَٰكِنَّ اللَّهَ يَفْعَلُ مَا يُرِيدُ",
+        "numberInSurah": 253
+      },
+      "firstSurah": {
+        "number": 2,
+        "name": "سورة البقرة",
+        "englishName": "Al-Baqara",
+        "englishNameTranslation": "The Cow",
+        "revelationType": "Medinan",
+        "numberOfAyahs": 286
+      }
+    },
+    {
+      "number": 6,
+      "firstPage": 51,
+      "firstAyah": {
+        "number": 308,
+        "text": "۞قُلْ أَؤُنَبِّئُكُمْ بِخَيْرٍ مِنْ ذَٰلِكُمْ ۚ لِلَّذِينَ اتَّقَوْا عِنْدَ رَبِّهِمْ جَنَّاتٌ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَأَزْوَاجٌ مُطَهَّرَةٌ وَرِضْوَانٌ مِنَ اللَّهِ ۗ وَاللَّهُ بَصِيرٌ بِالْعِبَادِ",
+        "numberInSurah": 15
+      },
+      "firstSurah": {
+        "number": 3,
+        "name": "سورة آل عمران",
+        "englishName": "Aal-i-Imraan",
+        "englishNameTranslation": "The Family of Imraan",
+        "revelationType": "Medinan",
+        "numberOfAyahs": 200
+      }
+    },
+    {
+      "number": 7,
+      "firstPage": 62,
+      "firstAyah": {
+        "number": 386,
+        "text": "۞كُلُّ الطَّعَامِ كَانَ حِلًّا لِبَنِي إِسْرَائِيلَ إِلَّا مَا حَرَّمَ إِسْرَائِيلُ عَلَىٰ نَفْسِهِ مِنْ قَبْلِ أَنْ تُنَزَّلَ التَّوْرَاةُ ۗ قُلْ فَأْتُوا بِالتَّوْرَاةِ فَاتْلُوهَا إِنْ كُنْتُمْ صَادِقِينَ",
+        "numberInSurah": 93
+      },
+      "firstSurah": {
+        "number": 3,
+        "name": "سورة آل عمران",
+        "englishName": "Aal-i-Imraan",
+        "englishNameTranslation": "The Family of Imraan",
+        "revelationType": "Medinan",
+        "numberOfAyahs": 200
+      }
+    },
+    {
+      "number": 8,
+      "firstPage": 72,
+      "firstAyah": {
+        "number": 464,
+        "text": "۞يَسْتَبْشِرُونَ بِنِعْمَةٍ مِنَ اللَّهِ وَفَضْلٍ وَأَنَّ اللَّهَ لَا يُضِيعُ أَجْرَ الْمُؤْمِنِينَ",
+        "numberInSurah": 171
+      },
+      "firstSurah": {
+        "number": 3,
+        "name": "سورة آل عمران",
+        "englishName": "Aal-i-Imraan",
+        "englishNameTranslation": "The Family of Imraan",
+        "revelationType": "Medinan",
+        "numberOfAyahs": 200
+      }
+    },
+    {
+      "number": 9,
+      "firstPage": 82,
+      "firstAyah": {
+        "number": 517,
+        "text": "۞وَالْمُحْصَنَاتُ مِنَ النِّسَاءِ إِلَّا مَا مَلَكَتْ أَيْمَانُكُمْ ۖ كِتَابَ اللَّهِ عَلَيْكُمْ ۚ وَأُحِلَّ لَكُمْ مَا وَرَاءَ ذَٰلِكُمْ أَنْ تَبْتَغُوا بِأَمْوَالِكُمْ مُحْصِنِينَ غَيْرَ مُسَافِحِينَ ۚ فَمَا اسْتَمْتَعْتُمْ بِهِ مِنْهُنَّ فَآتُوهُنَّ أُجُورَهُنَّ فَرِيضَةً ۚ وَلَا جُنَاحَ عَلَيْكُمْ فِيمَا تَرَاضَيْتُمْ بِهِ مِنْ بَعْدِ الْفَرِيضَةِ ۚ إِنَّ اللَّهَ كَانَ عَلِيمًا حَكِيمًا",
+        "numberInSurah": 24
+      },
+      "firstSurah": {
+        "number": 4,
+        "name": "سورة النساء",
+        "englishName": "An-Nisaa",
+        "englishNameTranslation": "The Women",
+        "revelationType": "Medinan",
+        "numberOfAyahs": 176
+      }
+    },
+    {
+      "number": 10,
+      "firstPage": 92,
+      "firstAyah": {
+        "number": 581,
+        "text": "۞فَمَا لَكُمْ فِي الْمُنَافِقِينَ فِئَتَيْنِ وَاللَّهُ أَرْكَسَهُمْ بِمَا كَسَبُوا ۚ أَتُرِيدُونَ أَنْ تَهْدُوا مَنْ أَضَلَّ اللَّهُ ۖ وَمَنْ يُضْلِلِ اللَّهُ فَلَنْ تَجِدَ لَهُ سَبِيلًا",
+        "numberInSurah": 88
+      },
+      "firstSurah": {
+        "number": 4,
+        "name": "سورة النساء",
+        "englishName": "An-Nisaa",
+        "englishNameTranslation": "The Women",
+        "revelationType": "Medinan",
+        "numberOfAyahs": 176
+      }
+    },
+    {
+      "number": 11,
+      "firstPage": 102,
+      "firstAyah": {
+        "number": 641,
+        "text": "۞لَا يُحِبُّ اللَّهُ الْجَهْرَ بِالسُّوءِ مِنَ الْقَوْلِ إِلَّا مَنْ ظُلِمَ ۚ وَكَانَ اللَّهُ سَمِيعًا عَلِيمًا",
+        "numberInSurah": 148
+      },
+      "firstSurah": {
+        "number": 4,
+        "name": "سورة النساء",
+        "englishName": "An-Nisaa",
+        "englishNameTranslation": "The Women",
+        "revelationType": "Medinan",
+        "numberOfAyahs": 176
+      }
+    },
+    {
+      "number": 12,
+      "firstPage": 112,
+      "firstAyah": {
+        "number": 696,
+        "text": "۞وَاتْلُ عَلَيْهِمْ نَبَأَ ابْنَيْ آدَمَ بِالْحَقِّ إِذْ قَرَّبَا قُرْبَانًا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ الْآخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ اللَّهُ مِنَ الْمُتَّقِينَ",
+        "numberInSurah": 27
+      },
+      "firstSurah": {
+        "number": 5,
+        "name": "سورة المائدة",
+        "englishName": "Al-Maaida",
+        "englishNameTranslation": "The Table",
+        "revelationType": "Medinan",
+        "numberOfAyahs": 120
+      }
+    },
+    {
+      "number": 13,
+      "firstPage": 121,
+      "firstAyah": {
+        "number": 751,
+        "text": "۞لَتَجِدَنَّ أَشَدَّ النَّاسِ عَدَاوَةً لِلَّذِينَ آمَنُوا الْيَهُودَ وَالَّذِينَ أَشْرَكُوا ۖ وَلَتَجِدَنَّ أَقْرَبَهُمْ مَوَدَّةً لِلَّذِينَ آمَنُوا الَّذِينَ قَالُوا إِنَّا نَصَارَىٰ ۚ ذَٰلِكَ بِأَنَّ مِنْهُمْ قِسِّيسِينَ وَرُهْبَانًا وَأَنَّهُمْ لَا يَسْتَكْبِرُونَ",
+        "numberInSurah": 82
+      },
+      "firstSurah": {
+        "number": 5,
+        "name": "سورة المائدة",
+        "englishName": "Al-Maaida",
+        "englishNameTranslation": "The Table",
+        "revelationType": "Medinan",
+        "numberOfAyahs": 120
+      }
+    },
+    {
+      "number": 14,
+      "firstPage": 132,
+      "firstAyah": {
+        "number": 825,
+        "text": "۞إِنَّمَا يَسْتَجِيبُ الَّذِينَ يَسْمَعُونَ ۘ وَالْمَوْتَىٰ يَبْعَثُهُمُ اللَّهُ ثُمَّ إِلَيْهِ يُرْجَعُونَ",
+        "numberInSurah": 36
+      },
+      "firstSurah": {
+        "number": 6,
+        "name": "سورة الأنعام",
+        "englishName": "Al-An'aam",
+        "englishNameTranslation": "The Cattle",
+        "revelationType": "Meccan",
+        "numberOfAyahs": 165
+      }
+    },
+    {
+      "number": 15,
+      "firstPage": 142,
+      "firstAyah": {
+        "number": 900,
+        "text": "۞وَلَوْ أَنَّنَا نَزَّلْنَا إِلَيْهِمُ الْمَلَائِكَةَ وَكَلَّمَهُمُ الْمَوْتَىٰ وَحَشَرْنَا عَلَيْهِمْ كُلَّ شَيْءٍ قُبُلًا مَا كَانُوا لِيُؤْمِنُوا إِلَّا أَنْ يَشَاءَ اللَّهُ وَلَٰكِنَّ أَكْثَرَهُمْ يَجْهَلُونَ",
+        "numberInSurah": 111
+      },
+      "firstSurah": {
+        "number": 6,
+        "name": "سورة الأنعام",
+        "englishName": "Al-An'aam",
+        "englishNameTranslation": "The Cattle",
+        "revelationType": "Meccan",
+        "numberOfAyahs": 165
+      }
+    },
+    {
+      "number": 16,
+      "firstPage": 151,
+      "firstAyah": {
+        "number": 955,
+        "text": "المص",
+        "numberInSurah": 1
+      },
+      "firstSurah": {
+        "number": 7,
+        "name": "سورة الأعراف",
+        "englishName": "Al-A'raaf",
+        "englishNameTranslation": "The Heights",
+        "revelationType": "Meccan",
+        "numberOfAyahs": 206
+      }
+    },
+    {
+      "number": 17,
+      "firstPage": 162,
+      "firstAyah": {
+        "number": 1042,
+        "text": "۞قَالَ الْمَلَأُ الَّذِينَ اسْتَكْبَرُوا مِنْ قَوْمِهِ لَنُخْرِجَنَّكَ يَاشُعَيْبُ وَالَّذِينَ آمَنُوا مَعَكَ مِنْ قَرْيَتِنَا أَوْ لَتَعُودُنَّ فِي مِلَّتِنَا ۚ قَالَ أَوَلَوْ كُنَّا كَارِهِينَ",
+        "numberInSurah": 88
+      },
+      "firstSurah": {
+        "number": 7,
+        "name": "سورة الأعراف",
+        "englishName": "Al-A'raaf",
+        "englishNameTranslation": "The Heights",
+        "revelationType": "Meccan",
+        "numberOfAyahs": 206
+      }
+    },
+    {
+      "number": 18,
+      "firstPage": 173,
+      "firstAyah": {
+        "number": 1125,
+        "text": "۞وَإِذْ نَتَقْنَا الْجَبَلَ فَوْقَهُمْ كَأَنَّهُ ظُلَّةٌ وَظَنُّوا أَنَّهُ وَاقِعٌ بِهِمْ خُذُوا مَا آتَيْنَاكُمْ بِقُوَّةٍ وَاذْكُرُوا مَا فِيهِ لَعَلَّكُمْ تَتَّقُونَ",
+        "numberInSurah": 171
+      },
+      "firstSurah": {
+        "number": 7,
+        "name": "سورة الأعراف",
+        "englishName": "Al-A'raaf",
+        "englishNameTranslation": "The Heights",
+        "revelationType": "Meccan",
+        "numberOfAyahs": 206
+      }
+    },
+    {
+      "number": 19,
+      "firstPage": 182,
+      "firstAyah": {
+        "number": 1201,
+        "text": "۞وَاعْلَمُوا أَنَّمَا غَنِمْتُمْ مِنْ شَيْءٍ فَأَنَّ لِلَّهِ خُمُسَهُ وَلِلرَّسُولِ وَلِذِي الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينِ وَابْنِ السَّبِيلِ إِنْ كُنْتُمْ آمَنْتُمْ بِاللَّهِ وَمَا أَنْزَلْنَا عَلَىٰ عَبْدِنَا يَوْمَ الْفُرْقَانِ يَوْمَ الْتَقَى الْجَمْعَانِ ۗ وَاللَّهُ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+        "numberInSurah": 41
+      },
+      "firstSurah": {
+        "number": 8,
+        "name": "سورة الأنفال",
+        "englishName": "Al-Anfaal",
+        "englishNameTranslation": "The Spoils of War",
+        "revelationType": "Medinan",
+        "numberOfAyahs": 75
+      }
+    },
+    {
+      "number": 20,
+      "firstPage": 192,
+      "firstAyah": {
+        "number": 1269,
+        "text": "۞يَاأَيُّهَا الَّذِينَ آمَنُوا إِنَّ كَثِيرًا مِنَ الْأَحْبَارِ وَالرُّهْبَانِ لَيَأْكُلُونَ أَمْوَالَ النَّاسِ بِالْبَاطِلِ وَيَصُدُّونَ عَنْ سَبِيلِ اللَّهِ ۗ وَالَّذِينَ يَكْنِزُونَ الذَّهَبَ وَالْفِضَّةَ وَلَا يُنْفِقُونَهَا فِي سَبِيلِ اللَّهِ فَبَشِّرْهُمْ بِعَذَابٍ أَلِيمٍ",
+        "numberInSurah": 34
+      },
+      "firstSurah": {
+        "number": 9,
+        "name": "سورة التوبة",
+        "englishName": "At-Tawba",
+        "englishNameTranslation": "The Repentance",
+        "revelationType": "Medinan",
+        "numberOfAyahs": 129
+      }
+    },
+    {
+      "number": 21,
+      "firstPage": 201,
+      "firstAyah": {
+        "number": 1328,
+        "text": "۞إِنَّمَا السَّبِيلُ عَلَى الَّذِينَ يَسْتَأْذِنُونَكَ وَهُمْ أَغْنِيَاءُ ۚ رَضُوا بِأَنْ يَكُونُوا مَعَ الْخَوَالِفِ وَطَبَعَ اللَّهُ عَلَىٰ قُلُوبِهِمْ فَهُمْ لَا يَعْلَمُونَ",
+        "numberInSurah": 93
+      },
+      "firstSurah": {
+        "number": 9,
+        "name": "سورة التوبة",
+        "englishName": "At-Tawba",
+        "englishNameTranslation": "The Repentance",
+        "revelationType": "Medinan",
+        "numberOfAyahs": 129
+      }
+    },
+    {
+      "number": 22,
+      "firstPage": 212,
+      "firstAyah": {
+        "number": 1390,
+        "text": "۞لِلَّذِينَ أَحْسَنُوا الْحُسْنَىٰ وَزِيَادَةٌ ۖ وَلَا يَرْهَقُ وُجُوهَهُمْ قَتَرٌ وَلَا ذِلَّةٌ ۚ أُولَٰئِكَ أَصْحَابُ الْجَنَّةِ ۖ هُمْ فِيهَا خَالِدُونَ",
+        "numberInSurah": 26
+      },
+      "firstSurah": {
+        "number": 10,
+        "name": "سورة يونس",
+        "englishName": "Yunus",
+        "englishNameTranslation": "Jonas",
+        "revelationType": "Meccan",
+        "numberOfAyahs": 109
+      }
+    },
+    {
+      "number": 23,
+      "firstPage": 222,
+      "firstAyah": {
+        "number": 1479,
+        "text": "۞وَمَا مِنْ دَابَّةٍ فِي الْأَرْضِ إِلَّا عَلَى اللَّهِ رِزْقُهَا وَيَعْلَمُ مُسْتَقَرَّهَا وَمُسْتَوْدَعَهَا ۚ كُلٌّ فِي كِتَابٍ مُبِينٍ",
+        "numberInSurah": 6
+      },
+      "firstSurah": {
+        "number": 11,
+        "name": "سورة هود",
+        "englishName": "Hud",
+        "englishNameTranslation": "Hud",
+        "revelationType": "Meccan",
+        "numberOfAyahs": 123
+      }
+    },
+    {
+      "number": 24,
+      "firstPage": 231,
+      "firstAyah": {
+        "number": 1557,
+        "text": "۞وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًا ۚ قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُمْ مِنْ إِلَٰهٍ غَيْرُهُ ۖ وَلَا تَنْقُصُوا الْمِكْيَالَ وَالْمِيزَانَ ۚ إِنِّي أَرَاكُمْ بِخَيْرٍ وَإِنِّي أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ مُحِيطٍ",
+        "numberInSurah": 84
+      },
+      "firstSurah": {
+        "number": 11,
+        "name": "سورة هود",
+        "englishName": "Hud",
+        "englishNameTranslation": "Hud",
+        "revelationType": "Meccan",
+        "numberOfAyahs": 123
+      }
+    },
+    {
+      "number": 25,
+      "firstPage": 242,
+      "firstAyah": {
+        "number": 1649,
+        "text": "۞وَمَا أُبَرِّئُ نَفْسِي ۚ إِنَّ النَّفْسَ لَأَمَّارَةٌ بِالسُّوءِ إِلَّا مَا رَحِمَ رَبِّي ۚ إِنَّ رَبِّي غَفُورٌ رَحِيمٌ",
+        "numberInSurah": 53
+      },
+      "firstSurah": {
+        "number": 12,
+        "name": "سورة يوسف",
+        "englishName": "Yusuf",
+        "englishNameTranslation": "Joseph",
+        "revelationType": "Meccan",
+        "numberOfAyahs": 111
+      }
+    },
+    {
+      "number": 26,
+      "firstPage": 252,
+      "firstAyah": {
+        "number": 1726,
+        "text": "۞أَفَمَنْ يَعْلَمُ أَنَّمَا أُنْزِلَ إِلَيْكَ مِنْ رَبِّكَ الْحَقُّ كَمَنْ هُوَ أَعْمَىٰ ۚ إِنَّمَا يَتَذَكَّرُ أُولُو الْأَلْبَابِ",
+        "numberInSurah": 19
+      },
+      "firstSurah": {
+        "number": 13,
+        "name": "سورة الرعد",
+        "englishName": "Ar-Ra'd",
+        "englishNameTranslation": "The Thunder",
+        "revelationType": "Medinan",
+        "numberOfAyahs": 43
+      }
+    },
+    {
+      "number": 27,
+      "firstPage": 262,
+      "firstAyah": {
+        "number": 1803,
+        "text": "الر ۚ تِلْكَ آيَاتُ الْكِتَابِ وَقُرْآنٍ مُبِينٍ",
+        "numberInSurah": 1
+      },
+      "firstSurah": {
+        "number": 15,
+        "name": "سورة الحجر",
+        "englishName": "Al-Hijr",
+        "englishNameTranslation": "The Rock",
+        "revelationType": "Meccan",
+        "numberOfAyahs": 99
+      }
+    },
+    {
+      "number": 28,
+      "firstPage": 272,
+      "firstAyah": {
+        "number": 1952,
+        "text": "۞وَقَالَ اللَّهُ لَا تَتَّخِذُوا إِلَٰهَيْنِ اثْنَيْنِ ۖ إِنَّمَا هُوَ إِلَٰهٌ وَاحِدٌ ۖ فَإِيَّايَ فَارْهَبُونِ",
+        "numberInSurah": 51
+      },
+      "firstSurah": {
+        "number": 16,
+        "name": "سورة النحل",
+        "englishName": "An-Nahl",
+        "englishNameTranslation": "The Bee",
+        "revelationType": "Meccan",
+        "numberOfAyahs": 128
+      }
+    },
+    {
+      "number": 29,
+      "firstPage": 282,
+      "firstAyah": {
+        "number": 2030,
+        "text": "سُبْحَانَ الَّذِي أَسْرَىٰ بِعَبْدِهِ لَيْلًا مِنَ الْمَسْجِدِ الْحَرَامِ إِلَى الْمَسْجِدِ الْأَقْصَى الَّذِي بَارَكْنَا حَوْلَهُ لِنُرِيَهُ مِنْ آيَاتِنَا ۚ إِنَّهُ هُوَ السَّمِيعُ الْبَصِيرُ",
+        "numberInSurah": 1
+      },
+      "firstSurah": {
+        "number": 17,
+        "name": "سورة الإسراء",
+        "englishName": "Al-Israa",
+        "englishNameTranslation": "The Night Journey",
+        "revelationType": "Meccan",
+        "numberOfAyahs": 111
+      }
+    },
+    {
+      "number": 30,
+      "firstPage": 292,
+      "firstAyah": {
+        "number": 2128,
+        "text": "۞أَوَلَمْ يَرَوْا أَنَّ اللَّهَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ قَادِرٌ عَلَىٰ أَنْ يَخْلُقَ مِثْلَهُمْ وَجَعَلَ لَهُمْ أَجَلًا لَا رَيْبَ فِيهِ فَأَبَى الظَّالِمُونَ إِلَّا كُفُورًا",
+        "numberInSurah": 99
+      },
+      "firstSurah": {
+        "number": 17,
+        "name": "سورة الإسراء",
+        "englishName": "Al-Israa",
+        "englishNameTranslation": "The Night Journey",
+        "revelationType": "Meccan",
+        "numberOfAyahs": 111
+      }
+    },
+    {
+      "number": 31,
+      "firstPage": 302,
+      "firstAyah": {
+        "number": 2215,
+        "text": "۞قَالَ أَلَمْ أَقُلْ لَكَ إِنَّكَ لَنْ تَسْتَطِيعَ مَعِيَ صَبْرًا",
+        "numberInSurah": 75
+      },
+      "firstSurah": {
+        "number": 18,
+        "name": "سورة الكهف",
+        "englishName": "Al-Kahf",
+        "englishNameTranslation": "The Cave",
+        "revelationType": "Meccan",
+        "numberOfAyahs": 110
+      }
+    },
+    {
+      "number": 32,
+      "firstPage": 312,
+      "firstAyah": {
+        "number": 2349,
+        "text": "طه",
+        "numberInSurah": 1
+      },
+      "firstSurah": {
+        "number": 20,
+        "name": "سورة طه",
+        "englishName": "Taa-Haa",
+        "englishNameTranslation": "Taa-Haa",
+        "revelationType": "Meccan",
+        "numberOfAyahs": 135
+      }
+    },
+    {
+      "number": 33,
+      "firstPage": 322,
+      "firstAyah": {
+        "number": 2484,
+        "text": "اقْتَرَبَ لِلنَّاسِ حِسَابُهُمْ وَهُمْ فِي غَفْلَةٍ مُعْرِضُونَ",
+        "numberInSurah": 1
+      },
+      "firstSurah": {
+        "number": 21,
+        "name": "سورة الأنبياء",
+        "englishName": "Al-Anbiyaa",
+        "englishNameTranslation": "The Prophets",
+        "revelationType": "Meccan",
+        "numberOfAyahs": 112
+      }
+    },
+    {
+      "number": 34,
+      "firstPage": 332,
+      "firstAyah": {
+        "number": 2596,
+        "text": "يَاأَيُّهَا النَّاسُ اتَّقُوا رَبَّكُمْ ۚ إِنَّ زَلْزَلَةَ السَّاعَةِ شَيْءٌ عَظِيمٌ",
+        "numberInSurah": 1
+      },
+      "firstSurah": {
+        "number": 22,
+        "name": "سورة الحج",
+        "englishName": "Al-Hajj",
+        "englishNameTranslation": "The Pilgrimage",
+        "revelationType": "Medinan",
+        "numberOfAyahs": 78
+      }
+    },
+    {
+      "number": 35,
+      "firstPage": 342,
+      "firstAyah": {
+        "number": 2674,
+        "text": "قَدْ أَفْلَحَ الْمُؤْمِنُونَ",
+        "numberInSurah": 1
+      },
+      "firstSurah": {
+        "number": 23,
+        "name": "سورة المؤمنون",
+        "englishName": "Al-Muminoon",
+        "englishNameTranslation": "The Believers",
+        "revelationType": "Meccan",
+        "numberOfAyahs": 118
+      }
+    },
+    {
+      "number": 36,
+      "firstPage": 352,
+      "firstAyah": {
+        "number": 2812,
+        "text": "۞يَاأَيُّهَا الَّذِينَ آمَنُوا لَا تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ ۚ وَمَنْ يَتَّبِعْ خُطُوَاتِ الشَّيْطَانِ فَإِنَّهُ يَأْمُرُ بِالْفَحْشَاءِ وَالْمُنْكَرِ ۚ وَلَوْلَا فَضْلُ اللَّهِ عَلَيْكُمْ وَرَحْمَتُهُ مَا زَكَىٰ مِنْكُمْ مِنْ أَحَدٍ أَبَدًا وَلَٰكِنَّ اللَّهَ يُزَكِّي مَنْ يَشَاءُ ۗ وَاللَّهُ سَمِيعٌ عَلِيمٌ",
+        "numberInSurah": 21
+      },
+      "firstSurah": {
+        "number": 24,
+        "name": "سورة النور",
+        "englishName": "An-Noor",
+        "englishNameTranslation": "The Light",
+        "revelationType": "Medinan",
+        "numberOfAyahs": 64
+      }
+    },
+    {
+      "number": 37,
+      "firstPage": 362,
+      "firstAyah": {
+        "number": 2876,
+        "text": "۞وَقَالَ الَّذِينَ لَا يَرْجُونَ لِقَاءَنَا لَوْلَا أُنْزِلَ عَلَيْنَا الْمَلَائِكَةُ أَوْ نَرَىٰ رَبَّنَا ۗ لَقَدِ اسْتَكْبَرُوا فِي أَنْفُسِهِمْ وَعَتَوْا عُتُوًّا كَبِيرًا",
+        "numberInSurah": 21
+      },
+      "firstSurah": {
+        "number": 25,
+        "name": "سورة الفرقان",
+        "englishName": "Al-Furqaan",
+        "englishNameTranslation": "The Criterion",
+        "revelationType": "Meccan",
+        "numberOfAyahs": 77
+      }
+    },
+    {
+      "number": 38,
+      "firstPage": 371,
+      "firstAyah": {
+        "number": 3043,
+        "text": "۞قَالُوا أَنُؤْمِنُ لَكَ وَاتَّبَعَكَ الْأَرْذَلُونَ",
+        "numberInSurah": 111
+      },
+      "firstSurah": {
+        "number": 26,
+        "name": "سورة الشعراء",
+        "englishName": "Ash-Shu'araa",
+        "englishNameTranslation": "The Poets",
+        "revelationType": "Meccan",
+        "numberOfAyahs": 227
+      }
+    },
+    {
+      "number": 39,
+      "firstPage": 382,
+      "firstAyah": {
+        "number": 3215,
+        "text": "۞فَمَا كَانَ جَوَابَ قَوْمِهِ إِلَّا أَنْ قَالُوا أَخْرِجُوا آلَ لُوطٍ مِنْ قَرْيَتِكُمْ ۖ إِنَّهُمْ أُنَاسٌ يَتَطَهَّرُونَ",
+        "numberInSurah": 56
+      },
+      "firstSurah": {
+        "number": 27,
+        "name": "سورة النمل",
+        "englishName": "An-Naml",
+        "englishNameTranslation": "The Ant",
+        "revelationType": "Meccan",
+        "numberOfAyahs": 93
+      }
+    },
+    {
+      "number": 40,
+      "firstPage": 392,
+      "firstAyah": {
+        "number": 3303,
+        "text": "۞وَلَقَدْ وَصَّلْنَا لَهُمُ الْقَوْلَ لَعَلَّهُمْ يَتَذَكَّرُونَ",
+        "numberInSurah": 51
+      },
+      "firstSurah": {
+        "number": 28,
+        "name": "سورة القصص",
+        "englishName": "Al-Qasas",
+        "englishNameTranslation": "The Stories",
+        "revelationType": "Meccan",
+        "numberOfAyahs": 88
+      }
+    },
+    {
+      "number": 41,
+      "firstPage": 402,
+      "firstAyah": {
+        "number": 3386,
+        "text": "۞وَلَا تُجَادِلُوا أَهْلَ الْكِتَابِ إِلَّا بِالَّتِي هِيَ أَحْسَنُ إِلَّا الَّذِينَ ظَلَمُوا مِنْهُمْ ۖ وَقُولُوا آمَنَّا بِالَّذِي أُنْزِلَ إِلَيْنَا وَأُنْزِلَ إِلَيْكُمْ وَإِلَٰهُنَا وَإِلَٰهُكُمْ وَاحِدٌ وَنَحْنُ لَهُ مُسْلِمُونَ",
+        "numberInSurah": 46
+      },
+      "firstSurah": {
+        "number": 29,
+        "name": "سورة العنكبوت",
+        "englishName": "Al-Ankaboot",
+        "englishNameTranslation": "The Spider",
+        "revelationType": "Meccan",
+        "numberOfAyahs": 69
+      }
+    },
+    {
+      "number": 42,
+      "firstPage": 413,
+      "firstAyah": {
+        "number": 3491,
+        "text": "۞وَمَنْ يُسْلِمْ وَجْهَهُ إِلَى اللَّهِ وَهُوَ مُحْسِنٌ فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَىٰ ۗ وَإِلَى اللَّهِ عَاقِبَةُ الْأُمُورِ",
+        "numberInSurah": 22
+      },
+      "firstSurah": {
+        "number": 31,
+        "name": "سورة لقمان",
+        "englishName": "Luqman",
+        "englishNameTranslation": "Luqman",
+        "revelationType": "Meccan",
+        "numberOfAyahs": 34
+      }
+    },
+    {
+      "number": 43,
+      "firstPage": 422,
+      "firstAyah": {
+        "number": 3564,
+        "text": "۞وَمَنْ يَقْنُتْ مِنْكُنَّ لِلَّهِ وَرَسُولِهِ وَتَعْمَلْ صَالِحًا نُؤْتِهَا أَجْرَهَا مَرَّتَيْنِ وَأَعْتَدْنَا لَهَا رِزْقًا كَرِيمًا",
+        "numberInSurah": 31
+      },
+      "firstSurah": {
+        "number": 33,
+        "name": "سورة الأحزاب",
+        "englishName": "Al-Ahzaab",
+        "englishNameTranslation": "The Clans",
+        "revelationType": "Medinan",
+        "numberOfAyahs": 73
+      }
+    },
+    {
+      "number": 44,
+      "firstPage": 431,
+      "firstAyah": {
+        "number": 3630,
+        "text": "۞قُلْ مَنْ يَرْزُقُكُمْ مِنَ السَّمَاوَاتِ وَالْأَرْضِ ۖ قُلِ اللَّهُ ۖ وَإِنَّا أَوْ إِيَّاكُمْ لَعَلَىٰ هُدًى أَوْ فِي ضَلَالٍ مُبِينٍ",
+        "numberInSurah": 24
+      },
+      "firstSurah": {
+        "number": 34,
+        "name": "سورة سَبَأ",
+        "englishName": "Saba",
+        "englishNameTranslation": "Sheba",
+        "revelationType": "Meccan",
+        "numberOfAyahs": 54
+      }
+    },
+    {
+      "number": 45,
+      "firstPage": 442,
+      "firstAyah": {
+        "number": 3733,
+        "text": "۞وَمَا أَنْزَلْنَا عَلَىٰ قَوْمِهِ مِنْ بَعْدِهِ مِنْ جُنْدٍ مِنَ السَّمَاءِ وَمَا كُنَّا مُنْزِلِينَ",
+        "numberInSurah": 28
+      },
+      "firstSurah": {
+        "number": 36,
+        "name": "سورة يس",
+        "englishName": "Yaseen",
+        "englishNameTranslation": "Yaseen",
+        "revelationType": "Meccan",
+        "numberOfAyahs": 83
+      }
+    },
+    {
+      "number": 46,
+      "firstPage": 451,
+      "firstAyah": {
+        "number": 3933,
+        "text": "۞فَنَبَذْنَاهُ بِالْعَرَاءِ وَهُوَ سَقِيمٌ",
+        "numberInSurah": 145
+      },
+      "firstSurah": {
+        "number": 37,
+        "name": "سورة الصافات",
+        "englishName": "As-Saaffaat",
+        "englishNameTranslation": "Those drawn up in Ranks",
+        "revelationType": "Meccan",
+        "numberOfAyahs": 182
+      }
+    },
+    {
+      "number": 47,
+      "firstPage": 462,
+      "firstAyah": {
+        "number": 4090,
+        "text": "۞فَمَنْ أَظْلَمُ مِمَّنْ كَذَبَ عَلَى اللَّهِ وَكَذَّبَ بِالصِّدْقِ إِذْ جَاءَهُ ۚ أَلَيْسَ فِي جَهَنَّمَ مَثْوًى لِلْكَافِرِينَ",
+        "numberInSurah": 32
+      },
+      "firstSurah": {
+        "number": 39,
+        "name": "سورة الزمر",
+        "englishName": "Az-Zumar",
+        "englishNameTranslation": "The Groups",
+        "revelationType": "Meccan",
+        "numberOfAyahs": 75
+      }
+    },
+    {
+      "number": 48,
+      "firstPage": 472,
+      "firstAyah": {
+        "number": 4174,
+        "text": "۞وَيَاقَوْمِ مَا لِي أَدْعُوكُمْ إِلَى النَّجَاةِ وَتَدْعُونَنِي إِلَى النَّارِ",
+        "numberInSurah": 41
+      },
+      "firstSurah": {
+        "number": 40,
+        "name": "سورة غافر",
+        "englishName": "Ghafir",
+        "englishNameTranslation": "The Forgiver",
+        "revelationType": "Meccan",
+        "numberOfAyahs": 85
+      }
+    },
+    {
+      "number": 49,
+      "firstPage": 482,
+      "firstAyah": {
+        "number": 4265,
+        "text": "۞إِلَيْهِ يُرَدُّ عِلْمُ السَّاعَةِ ۚ وَمَا تَخْرُجُ مِنْ ثَمَرَاتٍ مِنْ أَكْمَامِهَا وَمَا تَحْمِلُ مِنْ أُنْثَىٰ وَلَا تَضَعُ إِلَّا بِعِلْمِهِ ۚ وَيَوْمَ يُنَادِيهِمْ أَيْنَ شُرَكَائِي قَالُوا آذَنَّاكَ مَا مِنَّا مِنْ شَهِيدٍ",
+        "numberInSurah": 47
+      },
+      "firstSurah": {
+        "number": 41,
+        "name": "سورة فصلت",
+        "englishName": "Fussilat",
+        "englishNameTranslation": "Explained in detail",
+        "revelationType": "Meccan",
+        "numberOfAyahs": 54
+      }
+    },
+    {
+      "number": 50,
+      "firstPage": 491,
+      "firstAyah": {
+        "number": 4349,
+        "text": "۞قَالَ أَوَلَوْ جِئْتُكُمْ بِأَهْدَىٰ مِمَّا وَجَدْتُمْ عَلَيْهِ آبَاءَكُمْ ۖ قَالُوا إِنَّا بِمَا أُرْسِلْتُمْ بِهِ كَافِرُونَ",
+        "numberInSurah": 24
+      },
+      "firstSurah": {
+        "number": 43,
+        "name": "سورة الزخرف",
+        "englishName": "Az-Zukhruf",
+        "englishNameTranslation": "Ornaments of gold",
+        "revelationType": "Meccan",
+        "numberOfAyahs": 89
+      }
+    },
+    {
+      "number": 51,
+      "firstPage": 502,
+      "firstAyah": {
+        "number": 4511,
+        "text": "حم",
+        "numberInSurah": 1
+      },
+      "firstSurah": {
+        "number": 46,
+        "name": "سورة الأحقاف",
+        "englishName": "Al-Ahqaf",
+        "englishNameTranslation": "The Dunes",
+        "revelationType": "Meccan",
+        "numberOfAyahs": 35
+      }
+    },
+    {
+      "number": 52,
+      "firstPage": 513,
+      "firstAyah": {
+        "number": 4601,
+        "text": "۞لَقَدْ رَضِيَ اللَّهُ عَنِ الْمُؤْمِنِينَ إِذْ يُبَايِعُونَكَ تَحْتَ الشَّجَرَةِ فَعَلِمَ مَا فِي قُلُوبِهِمْ فَأَنْزَلَ السَّكِينَةَ عَلَيْهِمْ وَأَثَابَهُمْ فَتْحًا قَرِيبًا",
+        "numberInSurah": 18
+      },
+      "firstSurah": {
+        "number": 48,
+        "name": "سورة الفتح",
+        "englishName": "Al-Fath",
+        "englishNameTranslation": "The Victory",
+        "revelationType": "Medinan",
+        "numberOfAyahs": 29
+      }
+    },
+    {
+      "number": 53,
+      "firstPage": 522,
+      "firstAyah": {
+        "number": 4706,
+        "text": "۞قَالَ فَمَا خَطْبُكُمْ أَيُّهَا الْمُرْسَلُونَ",
+        "numberInSurah": 31
+      },
+      "firstSurah": {
+        "number": 51,
+        "name": "سورة الذاريات",
+        "englishName": "Adh-Dhaariyat",
+        "englishNameTranslation": "The Winnowing Winds",
+        "revelationType": "Meccan",
+        "numberOfAyahs": 60
+      }
+    },
+    {
+      "number": 54,
+      "firstPage": 531,
+      "firstAyah": {
+        "number": 4902,
+        "text": "الرَّحْمَٰنُ",
+        "numberInSurah": 1
+      },
+      "firstSurah": {
+        "number": 55,
+        "name": "سورة الرحمن",
+        "englishName": "Ar-Rahmaan",
+        "englishNameTranslation": "The Beneficent",
+        "revelationType": "Medinan",
+        "numberOfAyahs": 78
+      }
+    },
+    {
+      "number": 55,
+      "firstPage": 542,
+      "firstAyah": {
+        "number": 5105,
+        "text": "قَدْ سَمِعَ اللَّهُ قَوْلَ الَّتِي تُجَادِلُكَ فِي زَوْجِهَا وَتَشْتَكِي إِلَى اللَّهِ وَاللَّهُ يَسْمَعُ تَحَاوُرَكُمَا ۚ إِنَّ اللَّهَ سَمِيعٌ بَصِيرٌ",
+        "numberInSurah": 1
+      },
+      "firstSurah": {
+        "number": 58,
+        "name": "سورة المجادلة",
+        "englishName": "Al-Mujaadila",
+        "englishNameTranslation": "The Pleading Woman",
+        "revelationType": "Medinan",
+        "numberOfAyahs": 22
+      }
+    },
+    {
+      "number": 56,
+      "firstPage": 553,
+      "firstAyah": {
+        "number": 5178,
+        "text": "يُسَبِّحُ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ الْمَلِكِ الْقُدُّوسِ الْعَزِيزِ الْحَكِيمِ",
+        "numberInSurah": 1
+      },
+      "firstSurah": {
+        "number": 62,
+        "name": "سورة الجمعة",
+        "englishName": "Al-Jumu'a",
+        "englishNameTranslation": "Friday",
+        "revelationType": "Medinan",
+        "numberOfAyahs": 11
+      }
+    },
+    {
+      "number": 57,
+      "firstPage": 562,
+      "firstAyah": {
+        "number": 5242,
+        "text": "تَبَارَكَ الَّذِي بِيَدِهِ الْمُلْكُ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+        "numberInSurah": 1
+      },
+      "firstSurah": {
+        "number": 67,
+        "name": "سورة الملك",
+        "englishName": "Al-Mulk",
+        "englishNameTranslation": "The Sovereignty",
+        "revelationType": "Meccan",
+        "numberOfAyahs": 30
+      }
+    },
+    {
+      "number": 58,
+      "firstPage": 572,
+      "firstAyah": {
+        "number": 5448,
+        "text": "قُلْ أُوحِيَ إِلَيَّ أَنَّهُ اسْتَمَعَ نَفَرٌ مِنَ الْجِنِّ فَقَالُوا إِنَّا سَمِعْنَا قُرْآنًا عَجَبًا",
+        "numberInSurah": 1
+      },
+      "firstSurah": {
+        "number": 72,
+        "name": "سورة الجن",
+        "englishName": "Al-Jinn",
+        "englishNameTranslation": "The Jinn",
+        "revelationType": "Meccan",
+        "numberOfAyahs": 28
+      }
+    },
+    {
+      "number": 59,
+      "firstPage": 582,
+      "firstAyah": {
+        "number": 5673,
+        "text": "عَمَّ يَتَسَاءَلُونَ",
+        "numberInSurah": 1
+      },
+      "firstSurah": {
+        "number": 78,
+        "name": "سورة النبأ",
+        "englishName": "An-Naba",
+        "englishNameTranslation": "The Announcement",
+        "revelationType": "Meccan",
+        "numberOfAyahs": 40
+      }
+    },
+    {
+      "number": 60,
+      "firstPage": 591,
+      "firstAyah": {
+        "number": 5949,
+        "text": "سَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى",
+        "numberInSurah": 1
+      },
+      "firstSurah": {
+        "number": 87,
+        "name": "سورة الأعلى",
+        "englishName": "Al-A'laa",
+        "englishNameTranslation": "The Most High",
+        "revelationType": "Meccan",
+        "numberOfAyahs": 19
+      }
+    }
+  ],
+  "edition": {
+    "identifier": "quran-simple",
+    "language": "ar",
+    "name": "Simple",
+    "englishName": "Simple",
+    "format": "text",
+    "type": "quran",
+    "direction": "rtl"
+  }
+}

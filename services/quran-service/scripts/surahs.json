@@ -1,0 +1,1142 @@
+[
+  {
+    "surah_number": 1,
+    "name_arabic": "الفاتحة",
+    "name_english": "The Opener",
+    "transliteration": "Al-Fatihah",
+    "ayah_count": 7,
+    "revelation_type": "MECCAN",
+    "start_page": 1,
+    "end_page": 1
+  },
+  {
+    "surah_number": 2,
+    "name_arabic": "البقرة",
+    "name_english": "The Cow",
+    "transliteration": "Al-Baqarah",
+    "ayah_count": 286,
+    "revelation_type": "MEDINAN",
+    "start_page": 2,
+    "end_page": 49
+  },
+  {
+    "surah_number": 3,
+    "name_arabic": "آل عمران",
+    "name_english": "Family of Imran",
+    "transliteration": "Ali 'Imran",
+    "ayah_count": 200,
+    "revelation_type": "MEDINAN",
+    "start_page": 50,
+    "end_page": 76
+  },
+  {
+    "surah_number": 4,
+    "name_arabic": "النساء",
+    "name_english": "The Women",
+    "transliteration": "An-Nisa",
+    "ayah_count": 176,
+    "revelation_type": "MEDINAN",
+    "start_page": 77,
+    "end_page": 106
+  },
+  {
+    "surah_number": 5,
+    "name_arabic": "المائدة",
+    "name_english": "The Table Spread",
+    "transliteration": "Al-Ma'idah",
+    "ayah_count": 120,
+    "revelation_type": "MEDINAN",
+    "start_page": 106,
+    "end_page": 127
+  },
+  {
+    "surah_number": 6,
+    "name_arabic": "الأنعام",
+    "name_english": "The Cattle",
+    "transliteration": "Al-An'am",
+    "ayah_count": 165,
+    "revelation_type": "MECCAN",
+    "start_page": 128,
+    "end_page": 150
+  },
+  {
+    "surah_number": 7,
+    "name_arabic": "الأعراف",
+    "name_english": "The Heights",
+    "transliteration": "Al-A'raf",
+    "ayah_count": 206,
+    "revelation_type": "MECCAN",
+    "start_page": 151,
+    "end_page": 176
+  },
+  {
+    "surah_number": 8,
+    "name_arabic": "الأنفال",
+    "name_english": "The Spoils of War",
+    "transliteration": "Al-Anfal",
+    "ayah_count": 75,
+    "revelation_type": "MEDINAN",
+    "start_page": 177,
+    "end_page": 186
+  },
+  {
+    "surah_number": 9,
+    "name_arabic": "التوبة",
+    "name_english": "The Repentance",
+    "transliteration": "At-Tawbah",
+    "ayah_count": 129,
+    "revelation_type": "MEDINAN",
+    "start_page": 187,
+    "end_page": 207
+  },
+  {
+    "surah_number": 10,
+    "name_arabic": "يونس",
+    "name_english": "Jonah",
+    "transliteration": "Yunus",
+    "ayah_count": 109,
+    "revelation_type": "MECCAN",
+    "start_page": 208,
+    "end_page": 221
+  },
+  {
+    "surah_number": 11,
+    "name_arabic": "هود",
+    "name_english": "Hud",
+    "transliteration": "Hud",
+    "ayah_count": 123,
+    "revelation_type": "MECCAN",
+    "start_page": 221,
+    "end_page": 235
+  },
+  {
+    "surah_number": 12,
+    "name_arabic": "يوسف",
+    "name_english": "Joseph",
+    "transliteration": "Yusuf",
+    "ayah_count": 111,
+    "revelation_type": "MECCAN",
+    "start_page": 235,
+    "end_page": 248
+  },
+  {
+    "surah_number": 13,
+    "name_arabic": "الرعد",
+    "name_english": "The Thunder",
+    "transliteration": "Ar-Ra'd",
+    "ayah_count": 43,
+    "revelation_type": "MEDINAN",
+    "start_page": 249,
+    "end_page": 255
+  },
+  {
+    "surah_number": 14,
+    "name_arabic": "ابراهيم",
+    "name_english": "Abraham",
+    "transliteration": "Ibrahim",
+    "ayah_count": 52,
+    "revelation_type": "MECCAN",
+    "start_page": 255,
+    "end_page": 261
+  },
+  {
+    "surah_number": 15,
+    "name_arabic": "الحجر",
+    "name_english": "The Rocky Tract",
+    "transliteration": "Al-Hijr",
+    "ayah_count": 99,
+    "revelation_type": "MECCAN",
+    "start_page": 262,
+    "end_page": 267
+  },
+  {
+    "surah_number": 16,
+    "name_arabic": "النحل",
+    "name_english": "The Bee",
+    "transliteration": "An-Nahl",
+    "ayah_count": 128,
+    "revelation_type": "MECCAN",
+    "start_page": 267,
+    "end_page": 281
+  },
+  {
+    "surah_number": 17,
+    "name_arabic": "الإسراء",
+    "name_english": "The Night Journey",
+    "transliteration": "Al-Isra",
+    "ayah_count": 111,
+    "revelation_type": "MECCAN",
+    "start_page": 282,
+    "end_page": 293
+  },
+  {
+    "surah_number": 18,
+    "name_arabic": "الكهف",
+    "name_english": "The Cave",
+    "transliteration": "Al-Kahf",
+    "ayah_count": 110,
+    "revelation_type": "MECCAN",
+    "start_page": 293,
+    "end_page": 304
+  },
+  {
+    "surah_number": 19,
+    "name_arabic": "مريم",
+    "name_english": "Mary",
+    "transliteration": "Maryam",
+    "ayah_count": 98,
+    "revelation_type": "MECCAN",
+    "start_page": 305,
+    "end_page": 312
+  },
+  {
+    "surah_number": 20,
+    "name_arabic": "طه",
+    "name_english": "Ta-Ha",
+    "transliteration": "Taha",
+    "ayah_count": 135,
+    "revelation_type": "MECCAN",
+    "start_page": 312,
+    "end_page": 321
+  },
+  {
+    "surah_number": 21,
+    "name_arabic": "الأنبياء",
+    "name_english": "The Prophets",
+    "transliteration": "Al-Anbya",
+    "ayah_count": 112,
+    "revelation_type": "MECCAN",
+    "start_page": 322,
+    "end_page": 331
+  },
+  {
+    "surah_number": 22,
+    "name_arabic": "الحج",
+    "name_english": "The Pilgrimage",
+    "transliteration": "Al-Hajj",
+    "ayah_count": 78,
+    "revelation_type": "MEDINAN",
+    "start_page": 332,
+    "end_page": 341
+  },
+  {
+    "surah_number": 23,
+    "name_arabic": "المؤمنون",
+    "name_english": "The Believers",
+    "transliteration": "Al-Mu'minun",
+    "ayah_count": 118,
+    "revelation_type": "MECCAN",
+    "start_page": 342,
+    "end_page": 349
+  },
+  {
+    "surah_number": 24,
+    "name_arabic": "النور",
+    "name_english": "The Light",
+    "transliteration": "An-Nur",
+    "ayah_count": 64,
+    "revelation_type": "MEDINAN",
+    "start_page": 350,
+    "end_page": 359
+  },
+  {
+    "surah_number": 25,
+    "name_arabic": "الفرقان",
+    "name_english": "The Criterion",
+    "transliteration": "Al-Furqan",
+    "ayah_count": 77,
+    "revelation_type": "MECCAN",
+    "start_page": 359,
+    "end_page": 366
+  },
+  {
+    "surah_number": 26,
+    "name_arabic": "الشعراء",
+    "name_english": "The Poets",
+    "transliteration": "Ash-Shu'ara",
+    "ayah_count": 227,
+    "revelation_type": "MECCAN",
+    "start_page": 367,
+    "end_page": 376
+  },
+  {
+    "surah_number": 27,
+    "name_arabic": "النمل",
+    "name_english": "The Ant",
+    "transliteration": "An-Naml",
+    "ayah_count": 93,
+    "revelation_type": "MECCAN",
+    "start_page": 377,
+    "end_page": 385
+  },
+  {
+    "surah_number": 28,
+    "name_arabic": "القصص",
+    "name_english": "The Stories",
+    "transliteration": "Al-Qasas",
+    "ayah_count": 88,
+    "revelation_type": "MECCAN",
+    "start_page": 385,
+    "end_page": 396
+  },
+  {
+    "surah_number": 29,
+    "name_arabic": "العنكبوت",
+    "name_english": "The Spider",
+    "transliteration": "Al-'Ankabut",
+    "ayah_count": 69,
+    "revelation_type": "MECCAN",
+    "start_page": 396,
+    "end_page": 404
+  },
+  {
+    "surah_number": 30,
+    "name_arabic": "الروم",
+    "name_english": "The Romans",
+    "transliteration": "Ar-Rum",
+    "ayah_count": 60,
+    "revelation_type": "MECCAN",
+    "start_page": 404,
+    "end_page": 410
+  },
+  {
+    "surah_number": 31,
+    "name_arabic": "لقمان",
+    "name_english": "Luqman",
+    "transliteration": "Luqman",
+    "ayah_count": 34,
+    "revelation_type": "MECCAN",
+    "start_page": 411,
+    "end_page": 414
+  },
+  {
+    "surah_number": 32,
+    "name_arabic": "السجدة",
+    "name_english": "The Prostration",
+    "transliteration": "As-Sajdah",
+    "ayah_count": 30,
+    "revelation_type": "MECCAN",
+    "start_page": 415,
+    "end_page": 417
+  },
+  {
+    "surah_number": 33,
+    "name_arabic": "الأحزاب",
+    "name_english": "The Combined Forces",
+    "transliteration": "Al-Ahzab",
+    "ayah_count": 73,
+    "revelation_type": "MEDINAN",
+    "start_page": 418,
+    "end_page": 427
+  },
+  {
+    "surah_number": 34,
+    "name_arabic": "سبإ",
+    "name_english": "Sheba",
+    "transliteration": "Saba",
+    "ayah_count": 54,
+    "revelation_type": "MECCAN",
+    "start_page": 428,
+    "end_page": 434
+  },
+  {
+    "surah_number": 35,
+    "name_arabic": "فاطر",
+    "name_english": "Originator",
+    "transliteration": "Fatir",
+    "ayah_count": 45,
+    "revelation_type": "MECCAN",
+    "start_page": 434,
+    "end_page": 440
+  },
+  {
+    "surah_number": 36,
+    "name_arabic": "يس",
+    "name_english": "Ya Sin",
+    "transliteration": "Ya-Sin",
+    "ayah_count": 83,
+    "revelation_type": "MECCAN",
+    "start_page": 440,
+    "end_page": 445
+  },
+  {
+    "surah_number": 37,
+    "name_arabic": "الصافات",
+    "name_english": "Those who set the Ranks",
+    "transliteration": "As-Saffat",
+    "ayah_count": 182,
+    "revelation_type": "MECCAN",
+    "start_page": 446,
+    "end_page": 452
+  },
+  {
+    "surah_number": 38,
+    "name_arabic": "ص",
+    "name_english": "The Letter \"Saad\"",
+    "transliteration": "Sad",
+    "ayah_count": 88,
+    "revelation_type": "MECCAN",
+    "start_page": 453,
+    "end_page": 458
+  },
+  {
+    "surah_number": 39,
+    "name_arabic": "الزمر",
+    "name_english": "The Troops",
+    "transliteration": "Az-Zumar",
+    "ayah_count": 75,
+    "revelation_type": "MECCAN",
+    "start_page": 458,
+    "end_page": 467
+  },
+  {
+    "surah_number": 40,
+    "name_arabic": "غافر",
+    "name_english": "The Forgiver",
+    "transliteration": "Ghafir",
+    "ayah_count": 85,
+    "revelation_type": "MECCAN",
+    "start_page": 467,
+    "end_page": 476
+  },
+  {
+    "surah_number": 41,
+    "name_arabic": "فصلت",
+    "name_english": "Explained in Detail",
+    "transliteration": "Fussilat",
+    "ayah_count": 54,
+    "revelation_type": "MECCAN",
+    "start_page": 477,
+    "end_page": 482
+  },
+  {
+    "surah_number": 42,
+    "name_arabic": "الشورى",
+    "name_english": "The Consultation",
+    "transliteration": "Ash-Shuraa",
+    "ayah_count": 53,
+    "revelation_type": "MECCAN",
+    "start_page": 483,
+    "end_page": 489
+  },
+  {
+    "surah_number": 43,
+    "name_arabic": "الزخرف",
+    "name_english": "The Ornaments of Gold",
+    "transliteration": "Az-Zukhruf",
+    "ayah_count": 89,
+    "revelation_type": "MECCAN",
+    "start_page": 489,
+    "end_page": 495
+  },
+  {
+    "surah_number": 44,
+    "name_arabic": "الدخان",
+    "name_english": "The Smoke",
+    "transliteration": "Ad-Dukhan",
+    "ayah_count": 59,
+    "revelation_type": "MECCAN",
+    "start_page": 496,
+    "end_page": 498
+  },
+  {
+    "surah_number": 45,
+    "name_arabic": "الجاثية",
+    "name_english": "The Crouching",
+    "transliteration": "Al-Jathiyah",
+    "ayah_count": 37,
+    "revelation_type": "MECCAN",
+    "start_page": 499,
+    "end_page": 502
+  },
+  {
+    "surah_number": 46,
+    "name_arabic": "الأحقاف",
+    "name_english": "The Wind-Curved Sandhills",
+    "transliteration": "Al-Ahqaf",
+    "ayah_count": 35,
+    "revelation_type": "MECCAN",
+    "start_page": 502,
+    "end_page": 506
+  },
+  {
+    "surah_number": 47,
+    "name_arabic": "محمد",
+    "name_english": "Muhammad",
+    "transliteration": "Muhammad",
+    "ayah_count": 38,
+    "revelation_type": "MEDINAN",
+    "start_page": 507,
+    "end_page": 510
+  },
+  {
+    "surah_number": 48,
+    "name_arabic": "الفتح",
+    "name_english": "The Victory",
+    "transliteration": "Al-Fath",
+    "ayah_count": 29,
+    "revelation_type": "MEDINAN",
+    "start_page": 511,
+    "end_page": 515
+  },
+  {
+    "surah_number": 49,
+    "name_arabic": "الحجرات",
+    "name_english": "The Rooms",
+    "transliteration": "Al-Hujurat",
+    "ayah_count": 18,
+    "revelation_type": "MEDINAN",
+    "start_page": 515,
+    "end_page": 517
+  },
+  {
+    "surah_number": 50,
+    "name_arabic": "ق",
+    "name_english": "The Letter \"Qaf\"",
+    "transliteration": "Qaf",
+    "ayah_count": 45,
+    "revelation_type": "MECCAN",
+    "start_page": 518,
+    "end_page": 520
+  },
+  {
+    "surah_number": 51,
+    "name_arabic": "الذاريات",
+    "name_english": "The Winnowing Winds",
+    "transliteration": "Adh-Dhariyat",
+    "ayah_count": 60,
+    "revelation_type": "MECCAN",
+    "start_page": 520,
+    "end_page": 523
+  },
+  {
+    "surah_number": 52,
+    "name_arabic": "الطور",
+    "name_english": "The Mount",
+    "transliteration": "At-Tur",
+    "ayah_count": 49,
+    "revelation_type": "MECCAN",
+    "start_page": 523,
+    "end_page": 525
+  },
+  {
+    "surah_number": 53,
+    "name_arabic": "النجم",
+    "name_english": "The Star",
+    "transliteration": "An-Najm",
+    "ayah_count": 62,
+    "revelation_type": "MECCAN",
+    "start_page": 526,
+    "end_page": 528
+  },
+  {
+    "surah_number": 54,
+    "name_arabic": "القمر",
+    "name_english": "The Moon",
+    "transliteration": "Al-Qamar",
+    "ayah_count": 55,
+    "revelation_type": "MECCAN",
+    "start_page": 528,
+    "end_page": 531
+  },
+  {
+    "surah_number": 55,
+    "name_arabic": "الرحمن",
+    "name_english": "The Beneficent",
+    "transliteration": "Ar-Rahman",
+    "ayah_count": 78,
+    "revelation_type": "MEDINAN",
+    "start_page": 531,
+    "end_page": 534
+  },
+  {
+    "surah_number": 56,
+    "name_arabic": "الواقعة",
+    "name_english": "The Inevitable",
+    "transliteration": "Al-Waqi'ah",
+    "ayah_count": 96,
+    "revelation_type": "MECCAN",
+    "start_page": 534,
+    "end_page": 537
+  },
+  {
+    "surah_number": 57,
+    "name_arabic": "الحديد",
+    "name_english": "The Iron",
+    "transliteration": "Al-Hadid",
+    "ayah_count": 29,
+    "revelation_type": "MEDINAN",
+    "start_page": 537,
+    "end_page": 541
+  },
+  {
+    "surah_number": 58,
+    "name_arabic": "المجادلة",
+    "name_english": "The Pleading Woman",
+    "transliteration": "Al-Mujadila",
+    "ayah_count": 22,
+    "revelation_type": "MEDINAN",
+    "start_page": 542,
+    "end_page": 545
+  },
+  {
+    "surah_number": 59,
+    "name_arabic": "الحشر",
+    "name_english": "The Exile",
+    "transliteration": "Al-Hashr",
+    "ayah_count": 24,
+    "revelation_type": "MEDINAN",
+    "start_page": 545,
+    "end_page": 548
+  },
+  {
+    "surah_number": 60,
+    "name_arabic": "الممتحنة",
+    "name_english": "She that is to be examined",
+    "transliteration": "Al-Mumtahanah",
+    "ayah_count": 13,
+    "revelation_type": "MEDINAN",
+    "start_page": 549,
+    "end_page": 551
+  },
+  {
+    "surah_number": 61,
+    "name_arabic": "الصف",
+    "name_english": "The Ranks",
+    "transliteration": "As-Saf",
+    "ayah_count": 14,
+    "revelation_type": "MEDINAN",
+    "start_page": 551,
+    "end_page": 552
+  },
+  {
+    "surah_number": 62,
+    "name_arabic": "الجمعة",
+    "name_english": "The Congregation, Friday",
+    "transliteration": "Al-Jumu'ah",
+    "ayah_count": 11,
+    "revelation_type": "MEDINAN",
+    "start_page": 553,
+    "end_page": 554
+  },
+  {
+    "surah_number": 63,
+    "name_arabic": "المنافقون",
+    "name_english": "The Hypocrites",
+    "transliteration": "Al-Munafiqun",
+    "ayah_count": 11,
+    "revelation_type": "MEDINAN",
+    "start_page": 554,
+    "end_page": 555
+  },
+  {
+    "surah_number": 64,
+    "name_arabic": "التغابن",
+    "name_english": "The Mutual Disillusion",
+    "transliteration": "At-Taghabun",
+    "ayah_count": 18,
+    "revelation_type": "MEDINAN",
+    "start_page": 556,
+    "end_page": 557
+  },
+  {
+    "surah_number": 65,
+    "name_arabic": "الطلاق",
+    "name_english": "The Divorce",
+    "transliteration": "At-Talaq",
+    "ayah_count": 12,
+    "revelation_type": "MEDINAN",
+    "start_page": 558,
+    "end_page": 559
+  },
+  {
+    "surah_number": 66,
+    "name_arabic": "التحريم",
+    "name_english": "The Prohibition",
+    "transliteration": "At-Tahrim",
+    "ayah_count": 12,
+    "revelation_type": "MEDINAN",
+    "start_page": 560,
+    "end_page": 561
+  },
+  {
+    "surah_number": 67,
+    "name_arabic": "الملك",
+    "name_english": "The Sovereignty",
+    "transliteration": "Al-Mulk",
+    "ayah_count": 30,
+    "revelation_type": "MECCAN",
+    "start_page": 562,
+    "end_page": 564
+  },
+  {
+    "surah_number": 68,
+    "name_arabic": "القلم",
+    "name_english": "The Pen",
+    "transliteration": "Al-Qalam",
+    "ayah_count": 52,
+    "revelation_type": "MECCAN",
+    "start_page": 564,
+    "end_page": 566
+  },
+  {
+    "surah_number": 69,
+    "name_arabic": "الحاقة",
+    "name_english": "The Reality",
+    "transliteration": "Al-Haqqah",
+    "ayah_count": 52,
+    "revelation_type": "MECCAN",
+    "start_page": 566,
+    "end_page": 568
+  },
+  {
+    "surah_number": 70,
+    "name_arabic": "المعارج",
+    "name_english": "The Ascending Stairways",
+    "transliteration": "Al-Ma'arij",
+    "ayah_count": 44,
+    "revelation_type": "MECCAN",
+    "start_page": 568,
+    "end_page": 570
+  },
+  {
+    "surah_number": 71,
+    "name_arabic": "نوح",
+    "name_english": "Noah",
+    "transliteration": "Nuh",
+    "ayah_count": 28,
+    "revelation_type": "MECCAN",
+    "start_page": 570,
+    "end_page": 571
+  },
+  {
+    "surah_number": 72,
+    "name_arabic": "الجن",
+    "name_english": "The Jinn",
+    "transliteration": "Al-Jinn",
+    "ayah_count": 28,
+    "revelation_type": "MECCAN",
+    "start_page": 572,
+    "end_page": 573
+  },
+  {
+    "surah_number": 73,
+    "name_arabic": "المزمل",
+    "name_english": "The Enshrouded One",
+    "transliteration": "Al-Muzzammil",
+    "ayah_count": 20,
+    "revelation_type": "MECCAN",
+    "start_page": 574,
+    "end_page": 575
+  },
+  {
+    "surah_number": 74,
+    "name_arabic": "المدثر",
+    "name_english": "The Cloaked One",
+    "transliteration": "Al-Muddaththir",
+    "ayah_count": 56,
+    "revelation_type": "MECCAN",
+    "start_page": 575,
+    "end_page": 577
+  },
+  {
+    "surah_number": 75,
+    "name_arabic": "القيامة",
+    "name_english": "The Resurrection",
+    "transliteration": "Al-Qiyamah",
+    "ayah_count": 40,
+    "revelation_type": "MECCAN",
+    "start_page": 577,
+    "end_page": 578
+  },
+  {
+    "surah_number": 76,
+    "name_arabic": "الانسان",
+    "name_english": "The Man",
+    "transliteration": "Al-Insan",
+    "ayah_count": 31,
+    "revelation_type": "MEDINAN",
+    "start_page": 578,
+    "end_page": 580
+  },
+  {
+    "surah_number": 77,
+    "name_arabic": "المرسلات",
+    "name_english": "The Emissaries",
+    "transliteration": "Al-Mursalat",
+    "ayah_count": 50,
+    "revelation_type": "MECCAN",
+    "start_page": 580,
+    "end_page": 581
+  },
+  {
+    "surah_number": 78,
+    "name_arabic": "النبإ",
+    "name_english": "The Tidings",
+    "transliteration": "An-Naba",
+    "ayah_count": 40,
+    "revelation_type": "MECCAN",
+    "start_page": 582,
+    "end_page": 583
+  },
+  {
+    "surah_number": 79,
+    "name_arabic": "النازعات",
+    "name_english": "Those who drag forth",
+    "transliteration": "An-Nazi'at",
+    "ayah_count": 46,
+    "revelation_type": "MECCAN",
+    "start_page": 583,
+    "end_page": 584
+  },
+  {
+    "surah_number": 80,
+    "name_arabic": "عبس",
+    "name_english": "He Frowned",
+    "transliteration": "'Abasa",
+    "ayah_count": 42,
+    "revelation_type": "MECCAN",
+    "start_page": 585,
+    "end_page": 586
+  },
+  {
+    "surah_number": 81,
+    "name_arabic": "التكوير",
+    "name_english": "The Overthrowing",
+    "transliteration": "At-Takwir",
+    "ayah_count": 29,
+    "revelation_type": "MECCAN",
+    "start_page": 586,
+    "end_page": 586
+  },
+  {
+    "surah_number": 82,
+    "name_arabic": "الإنفطار",
+    "name_english": "The Cleaving",
+    "transliteration": "Al-Infitar",
+    "ayah_count": 19,
+    "revelation_type": "MECCAN",
+    "start_page": 587,
+    "end_page": 587
+  },
+  {
+    "surah_number": 83,
+    "name_arabic": "المطففين",
+    "name_english": "The Defrauding",
+    "transliteration": "Al-Mutaffifin",
+    "ayah_count": 36,
+    "revelation_type": "MECCAN",
+    "start_page": 587,
+    "end_page": 589
+  },
+  {
+    "surah_number": 84,
+    "name_arabic": "الإنشقاق",
+    "name_english": "The Sundering",
+    "transliteration": "Al-Inshiqaq",
+    "ayah_count": 25,
+    "revelation_type": "MECCAN",
+    "start_page": 589,
+    "end_page": 590
+  },
+  {
+    "surah_number": 85,
+    "name_arabic": "البروج",
+    "name_english": "The Mansions of the Stars",
+    "transliteration": "Al-Buruj",
+    "ayah_count": 22,
+    "revelation_type": "MECCAN",
+    "start_page": 590,
+    "end_page": 590
+  },
+  {
+    "surah_number": 86,
+    "name_arabic": "الطارق",
+    "name_english": "The Nightcommer",
+    "transliteration": "At-Tariq",
+    "ayah_count": 17,
+    "revelation_type": "MECCAN",
+    "start_page": 591,
+    "end_page": 591
+  },
+  {
+    "surah_number": 87,
+    "name_arabic": "الأعلى",
+    "name_english": "The Most High",
+    "transliteration": "Al-A'la",
+    "ayah_count": 19,
+    "revelation_type": "MECCAN",
+    "start_page": 591,
+    "end_page": 592
+  },
+  {
+    "surah_number": 88,
+    "name_arabic": "الغاشية",
+    "name_english": "The Overwhelming",
+    "transliteration": "Al-Ghashiyah",
+    "ayah_count": 26,
+    "revelation_type": "MECCAN",
+    "start_page": 592,
+    "end_page": 593
+  },
+  {
+    "surah_number": 89,
+    "name_arabic": "الفجر",
+    "name_english": "The Dawn",
+    "transliteration": "Al-Fajr",
+    "ayah_count": 30,
+    "revelation_type": "MECCAN",
+    "start_page": 593,
+    "end_page": 594
+  },
+  {
+    "surah_number": 90,
+    "name_arabic": "البلد",
+    "name_english": "The City",
+    "transliteration": "Al-Balad",
+    "ayah_count": 20,
+    "revelation_type": "MECCAN",
+    "start_page": 594,
+    "end_page": 595
+  },
+  {
+    "surah_number": 91,
+    "name_arabic": "الشمس",
+    "name_english": "The Sun",
+    "transliteration": "Ash-Shams",
+    "ayah_count": 15,
+    "revelation_type": "MECCAN",
+    "start_page": 595,
+    "end_page": 595
+  },
+  {
+    "surah_number": 92,
+    "name_arabic": "الليل",
+    "name_english": "The Night",
+    "transliteration": "Al-Layl",
+    "ayah_count": 21,
+    "revelation_type": "MECCAN",
+    "start_page": 595,
+    "end_page": 596
+  },
+  {
+    "surah_number": 93,
+    "name_arabic": "الضحى",
+    "name_english": "The Morning Hours",
+    "transliteration": "Ad-Duhaa",
+    "ayah_count": 11,
+    "revelation_type": "MECCAN",
+    "start_page": 596,
+    "end_page": 596
+  },
+  {
+    "surah_number": 94,
+    "name_arabic": "الشرح",
+    "name_english": "The Relief",
+    "transliteration": "Ash-Sharh",
+    "ayah_count": 8,
+    "revelation_type": "MECCAN",
+    "start_page": 596,
+    "end_page": 597
+  },
+  {
+    "surah_number": 95,
+    "name_arabic": "التين",
+    "name_english": "The Fig",
+    "transliteration": "At-Tin",
+    "ayah_count": 8,
+    "revelation_type": "MECCAN",
+    "start_page": 597,
+    "end_page": 597
+  },
+  {
+    "surah_number": 96,
+    "name_arabic": "العلق",
+    "name_english": "The Clot",
+    "transliteration": "Al-'Alaq",
+    "ayah_count": 19,
+    "revelation_type": "MECCAN",
+    "start_page": 597,
+    "end_page": 598
+  },
+  {
+    "surah_number": 97,
+    "name_arabic": "القدر",
+    "name_english": "The Power",
+    "transliteration": "Al-Qadr",
+    "ayah_count": 5,
+    "revelation_type": "MECCAN",
+    "start_page": 598,
+    "end_page": 598
+  },
+  {
+    "surah_number": 98,
+    "name_arabic": "البينة",
+    "name_english": "The Clear Proof",
+    "transliteration": "Al-Bayyinah",
+    "ayah_count": 8,
+    "revelation_type": "MEDINAN",
+    "start_page": 598,
+    "end_page": 599
+  },
+  {
+    "surah_number": 99,
+    "name_arabic": "الزلزلة",
+    "name_english": "The Earthquake",
+    "transliteration": "Az-Zalzalah",
+    "ayah_count": 8,
+    "revelation_type": "MEDINAN",
+    "start_page": 599,
+    "end_page": 599
+  },
+  {
+    "surah_number": 100,
+    "name_arabic": "العاديات",
+    "name_english": "The Courser",
+    "transliteration": "Al-'Adiyat",
+    "ayah_count": 11,
+    "revelation_type": "MECCAN",
+    "start_page": 599,
+    "end_page": 600
+  },
+  {
+    "surah_number": 101,
+    "name_arabic": "القارعة",
+    "name_english": "The Calamity",
+    "transliteration": "Al-Qari'ah",
+    "ayah_count": 11,
+    "revelation_type": "MECCAN",
+    "start_page": 600,
+    "end_page": 600
+  },
+  {
+    "surah_number": 102,
+    "name_arabic": "التكاثر",
+    "name_english": "The Rivalry in world increase",
+    "transliteration": "At-Takathur",
+    "ayah_count": 8,
+    "revelation_type": "MECCAN",
+    "start_page": 600,
+    "end_page": 600
+  },
+  {
+    "surah_number": 103,
+    "name_arabic": "العصر",
+    "name_english": "The Declining Day",
+    "transliteration": "Al-'Asr",
+    "ayah_count": 3,
+    "revelation_type": "MECCAN",
+    "start_page": 601,
+    "end_page": 601
+  },
+  {
+    "surah_number": 104,
+    "name_arabic": "الهمزة",
+    "name_english": "The Traducer",
+    "transliteration": "Al-Humazah",
+    "ayah_count": 9,
+    "revelation_type": "MECCAN",
+    "start_page": 601,
+    "end_page": 601
+  },
+  {
+    "surah_number": 105,
+    "name_arabic": "الفيل",
+    "name_english": "The Elephant",
+    "transliteration": "Al-Fil",
+    "ayah_count": 5,
+    "revelation_type": "MECCAN",
+    "start_page": 601,
+    "end_page": 601
+  },
+  {
+    "surah_number": 106,
+    "name_arabic": "قريش",
+    "name_english": "Quraysh",
+    "transliteration": "Quraysh",
+    "ayah_count": 4,
+    "revelation_type": "MECCAN",
+    "start_page": 602,
+    "end_page": 602
+  },
+  {
+    "surah_number": 107,
+    "name_arabic": "الماعون",
+    "name_english": "The Small kindnesses",
+    "transliteration": "Al-Ma'un",
+    "ayah_count": 7,
+    "revelation_type": "MECCAN",
+    "start_page": 602,
+    "end_page": 602
+  },
+  {
+    "surah_number": 108,
+    "name_arabic": "الكوثر",
+    "name_english": "The Abundance",
+    "transliteration": "Al-Kawthar",
+    "ayah_count": 3,
+    "revelation_type": "MECCAN",
+    "start_page": 602,
+    "end_page": 602
+  },
+  {
+    "surah_number": 109,
+    "name_arabic": "الكافرون",
+    "name_english": "The Disbelievers",
+    "transliteration": "Al-Kafirun",
+    "ayah_count": 6,
+    "revelation_type": "MECCAN",
+    "start_page": 603,
+    "end_page": 603
+  },
+  {
+    "surah_number": 110,
+    "name_arabic": "النصر",
+    "name_english": "The Divine Support",
+    "transliteration": "An-Nasr",
+    "ayah_count": 3,
+    "revelation_type": "MEDINAN",
+    "start_page": 603,
+    "end_page": 603
+  },
+  {
+    "surah_number": 111,
+    "name_arabic": "المسد",
+    "name_english": "The Palm Fiber",
+    "transliteration": "Al-Masad",
+    "ayah_count": 5,
+    "revelation_type": "MECCAN",
+    "start_page": 603,
+    "end_page": 603
+  },
+  {
+    "surah_number": 112,
+    "name_arabic": "الإخلاص",
+    "name_english": "The Sincerity",
+    "transliteration": "Al-Ikhlas",
+    "ayah_count": 4,
+    "revelation_type": "MECCAN",
+    "start_page": 604,
+    "end_page": 604
+  },
+  {
+    "surah_number": 113,
+    "name_arabic": "الفلق",
+    "name_english": "The Daybreak",
+    "transliteration": "Al-Falaq",
+    "ayah_count": 5,
+    "revelation_type": "MECCAN",
+    "start_page": 604,
+    "end_page": 604
+  },
+  {
+    "surah_number": 114,
+    "name_arabic": "الناس",
+    "name_english": "Mankind",
+    "transliteration": "An-Nas",
+    "ayah_count": 6,
+    "revelation_type": "MECCAN",
+    "start_page": 604,
+    "end_page": 604
+  }
+]

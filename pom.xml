@@ -16,10 +16,15 @@
     <description>Microservice platform for Thabat</description>
 
     <modules>
+        <module>libs/event-contracts</module>
         <module>services/discovery-service</module>
         <module>services/config-service</module>
         <module>services/gateway-service</module>
         <module>services/identity-service</module>
+        <module>services/journey-service</module>
+        <module>services/prayer-service</module>
+        <module>services/quran-service</module>
+        <module>services/notification-service</module>
     </modules>
 
     <properties>
@@ -45,6 +50,11 @@
                 <version>${spring-cloud.version}</version>
                 <type>pom</type>
                 <scope>import</scope>
+            </dependency>
+            <dependency>
+                <groupId>com.thabat</groupId>
+                <artifactId>event-contracts</artifactId>
+                <version>${project.version}</version>
             </dependency>
         </dependencies>
     </dependencyManagement>
